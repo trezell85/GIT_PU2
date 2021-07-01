@@ -10,4 +10,4 @@ if (clientName == 'Alice Mckinney') {
 var clientNumber = 573;
 var clientage = 97;
 var clientId = 'ZEM5557841';
-var clientPhoneNumber = 'phone number changed';
+var clientPhoneNumber = 6624891234;
