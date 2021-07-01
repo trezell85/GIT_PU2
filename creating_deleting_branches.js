@@ -11,3 +11,4 @@ var clientNumber = 573;
 var clientage = 97;
 var clientId = 'ZEM5557841';
 var clientPhoneNumber = 6624891234;
+var clientSocialSecurity = 123654789;
